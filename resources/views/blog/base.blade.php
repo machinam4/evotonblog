@@ -114,9 +114,20 @@
                 </div>
             </div>
         </header>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8083663507982142"
+                crossorigin="anonymous"></script>
         <!-- Start Header -->
 
         @yield('contents')
+
+        <!-- Horizontal ad -->
+        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8083663507982142"
+            data-ad-slot="4322727150" data-ad-format="auto" data-full-width-responsive="true"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+
+
 
         <!-- Start Footer Area  -->
         <div class="axil-footer-area axil-footer-style-1 bg-color-white">
