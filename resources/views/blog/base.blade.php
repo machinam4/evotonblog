@@ -100,10 +100,11 @@
                         <div class="col-lg-9 col-md-8 col-sm-6">
                             <div class="banner-add text-end">
 
-                                <!-- Horizontal ad -->
-                                <ins class="adsbygoogle" style="display:block"
-                                    data-ad-client="ca-pub-8083663507982142" data-ad-slot="4322727150"
-                                    data-ad-format="auto" data-full-width-responsive="true"></ins>
+                                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8083663507982142"
+                                                                crossorigin="anonymous"></script>
+                                <!-- fixed horizontal ad -->
+                                <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px"
+                                    data-ad-client="ca-pub-8083663507982142" data-ad-slot="3592933563"></ins>
                                 <script>
                                     (adsbygoogle = window.adsbygoogle || []).push({});
                                 </script>
