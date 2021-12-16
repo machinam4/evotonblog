@@ -146,14 +146,16 @@
                     </div>
                     <!-- End Sidebar Area  -->
                     @for ($i = 0; $i < 15; $i++)
-                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8083663507982142"
-                                                crossorigin="anonymous"></script>
-                        <!-- Verticle ads -->
-                        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8083663507982142"
-                            data-ad-slot="4701344567" data-ad-format="auto" data-full-width-responsive="true"></ins>
-                        <script>
-                            (adsbygoogle = window.adsbygoogle || []).push({});
-                        </script>
+                        <div class="axil-single-widget widget widget_social mb--30">
+                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8083663507982142"
+                                                        crossorigin="anonymous"></script>
+                            <!-- Verticle ads -->
+                            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8083663507982142"
+                                data-ad-slot="4701344567" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                            <script>
+                                (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                        </div>
                     @endfor
 
 
