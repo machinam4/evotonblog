@@ -61,14 +61,14 @@
                 <div class="col-lg-4 col-xl-4 mt_md--40 mt_sm--40">
                     <!-- Start Sidebar Area  -->
                     <div class="sidebar-inner">
-                        {{-- <div class="axil-single-widget widget widget_categories mb--30">
-                            <!-- verticle ad -->
-                            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8083663507982142"
-                                data-ad-slot="3592933563" data-ad-format="auto" data-full-width-responsive="true"></ins>
-                            <script>
-                                (adsbygoogle = window.adsbygoogle || []).push({});
-                            </script>
-                        </div> --}}
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8083663507982142"
+                                                crossorigin="anonymous"></script>
+                        <!-- Verticle ads -->
+                        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8083663507982142"
+                            data-ad-slot="4701344567" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
 
                         <!-- Start Single Widget  -->
                         <div class="axil-single-widget widget widget_categories mb--30">
@@ -116,16 +116,14 @@
                             </ul>
                         </div>
                         <!-- End Single Widget  -->
-                        {{-- <!-- verticle ad -->
-                        <div class="axil-single-widget widget widget_categories mb--30">
-                            <!-- verticle ad -->
-                            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8083663507982142"
-                                data-ad-slot="3592933563" data-ad-format="auto" data-full-width-responsive="true"></ins>
-                            <script>
-                                (adsbygoogle = window.adsbygoogle || []).push({});
-                            </script>
-                        </div> --}}
-
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8083663507982142"
+                                                crossorigin="anonymous"></script>
+                        <!-- Verticle ads -->
+                        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8083663507982142"
+                            data-ad-slot="4701344567" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
 
                         <!-- Start Single Widget  -->
                         <div class="axil-single-widget widget widget_social mb--30">
@@ -143,28 +141,20 @@
                             <!-- End Post List  -->
                         </div>
                         <!-- End Single Widget  -->
-                        {{-- <!-- verticle ad -->
-                        <div class="axil-single-widget widget widget_categories mb--30">
-                            <!-- verticle ad -->
-                            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8083663507982142"
-                                data-ad-slot="3592933563" data-ad-format="auto" data-full-width-responsive="true"></ins>
-                            <script>
-                                (adsbygoogle = window.adsbygoogle || []).push({});
-                            </script>
-                        </div>
 
-                        <!-- verticle ad -->
-                        <div class="axil-single-widget widget widget_categories mb--30">
-                            <!-- verticle ad -->
-                            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8083663507982142"
-                                data-ad-slot="3592933563" data-ad-format="auto" data-full-width-responsive="true"></ins>
-                            <script>
-                                (adsbygoogle = window.adsbygoogle || []).push({});
-                            </script>
-                        </div> --}}
 
                     </div>
                     <!-- End Sidebar Area  -->
+                    @for ($i = 0; $i < 15; $i++)
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8083663507982142"
+                                                crossorigin="anonymous"></script>
+                        <!-- Verticle ads -->
+                        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8083663507982142"
+                            data-ad-slot="4701344567" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                    @endfor
 
 
 
