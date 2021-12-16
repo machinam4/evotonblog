@@ -21,7 +21,7 @@
                                 </div>
                                 <h4 class="title"><a href="{{ $item->get_permalink() }}"
                                         target="_blank">{{ $item->get_title() }} </a></h4>
-                                <p>{!! $item->get_description() !!}</p>
+                                <p>{!! $item->get_content() !!}</p>
                                 <div class="post-meta-wrapper">
                                     <div class="post-meta">
                                         <div class="content">

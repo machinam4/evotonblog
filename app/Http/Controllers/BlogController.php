@@ -15,8 +15,8 @@ class BlogController extends Controller
      */
     public function index() {
         $feed = Feeds::make([
-          'https://betterprogramming.pub/feed',
-          'https://davidwalsh.name/',
+          // 'https://betterprogramming.pub/feed',
+          // 'https://davidwalsh.name/',
           'https://myprogrammingblog.com/feed',
           //'https://zerodha.tech/index.xml',
           // 'https://blog.codinghorror.com/rss/'

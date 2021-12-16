@@ -8,8 +8,8 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Blog || Evoton - Get latest tech news</title>
-    <meta name="robots" content="noindex, follow" />
-    <meta name="description" content="">
+    {{-- <meta name="robots" content="noindex, follow" /> --}}
+    <meta name="description" content="Evoton software blog, all tech news from multiple sites all in one place.">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/images/logo/evoton logo sm.webp') }}">
