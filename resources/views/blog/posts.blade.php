@@ -61,14 +61,14 @@
                 <div class="col-lg-4 col-xl-4 mt_md--40 mt_sm--40">
                     <!-- Start Sidebar Area  -->
                     <div class="sidebar-inner">
-                        <div class="axil-single-widget widget widget_categories mb--30">
+                        {{-- <div class="axil-single-widget widget widget_categories mb--30">
                             <!-- verticle ad -->
                             <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8083663507982142"
                                 data-ad-slot="3592933563" data-ad-format="auto" data-full-width-responsive="true"></ins>
                             <script>
                                 (adsbygoogle = window.adsbygoogle || []).push({});
                             </script>
-                        </div>
+                        </div> --}}
 
                         <!-- Start Single Widget  -->
                         <div class="axil-single-widget widget widget_categories mb--30">
@@ -116,7 +116,7 @@
                             </ul>
                         </div>
                         <!-- End Single Widget  -->
-                        <!-- verticle ad -->
+                        {{-- <!-- verticle ad -->
                         <div class="axil-single-widget widget widget_categories mb--30">
                             <!-- verticle ad -->
                             <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8083663507982142"
@@ -124,7 +124,7 @@
                             <script>
                                 (adsbygoogle = window.adsbygoogle || []).push({});
                             </script>
-                        </div>
+                        </div> --}}
 
 
                         <!-- Start Single Widget  -->
@@ -143,7 +143,7 @@
                             <!-- End Post List  -->
                         </div>
                         <!-- End Single Widget  -->
-                        <!-- verticle ad -->
+                        {{-- <!-- verticle ad -->
                         <div class="axil-single-widget widget widget_categories mb--30">
                             <!-- verticle ad -->
                             <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8083663507982142"
@@ -161,7 +161,7 @@
                             <script>
                                 (adsbygoogle = window.adsbygoogle || []).push({});
                             </script>
-                        </div>
+                        </div> --}}
 
                     </div>
                     <!-- End Sidebar Area  -->
