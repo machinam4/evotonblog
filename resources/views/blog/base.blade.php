@@ -13,7 +13,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/images/logo/evoton logo sm.webp') }}">
-
+    <!---google ads-->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8083663507982142"
+        crossorigin="anonymous"></script>
     <!-- CSS
     ============================================ -->
 
@@ -29,9 +31,6 @@
 </head>
 
 <body>
-    <!---google ads-->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8083663507982142"
-        crossorigin="anonymous"></script>
     <!---google ads-->
     <div class="main-wrapper">
         <div class="mouse-cursor cursor-outer"></div>
